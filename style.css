@@ -5,7 +5,7 @@
     background-color: dimgray;
 }
 
-li, a, nav{
+body, nav{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 500;
     font-size: 16px;
