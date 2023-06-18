@@ -4,14 +4,11 @@ body{
     margin: 0 auto;
 }
 
-li{
+header{
     font-weight: 200;
     font-size: 12px;
     color: lightskyblue;
     text-decoration: none;
-}
-
-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
