@@ -1,7 +1,19 @@
 body{
     background-color:lightgray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border-top: 15px solid;
     margin: 0 auto;
 }
 
+li,a,button {
+    font-weight: 500;
+    font-size: 16px;
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
