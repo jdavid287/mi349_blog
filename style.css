@@ -31,3 +31,7 @@ header{
 .nav_links li a:hover {
 color:blue
 }
+
+.topic_title {
+    text-align: center;
+}
