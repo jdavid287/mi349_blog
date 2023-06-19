@@ -35,7 +35,7 @@ ul {
     transition: all 0.3s ease 0s;
 }
 .nav_links li a:hover {
-color: blue;
+color: #fff;
 }
 
 .nav_links {
