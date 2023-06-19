@@ -17,6 +17,10 @@ header{
     border-bottom: #fff;
 }
 
+.logo {
+    background-color: transparent;
+}
+
 #menu_bar {
     background-color: rgb(1, 45, 139);
 }
