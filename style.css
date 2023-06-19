@@ -19,6 +19,7 @@ header{
 
 .logo {
     background-color: transparent;
+    background-image:none;
 }
 
 #menu_bar {
