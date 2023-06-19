@@ -67,3 +67,8 @@ color: #fff;
     margin: 0 auto;
     font-size: 13px;
 }
+
+#p {
+    text-align: left;
+    margin-left: 20px;
+}
