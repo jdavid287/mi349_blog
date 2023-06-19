@@ -6,7 +6,7 @@ body{
 
 header{
     font-weight: 200;
-    font-size: 40px;
+    font-size: 25px;
     color: #fff;;
     text-decoration: none;
     display: flex;
@@ -14,6 +14,7 @@ header{
     align-items: center;
     padding: 30px 10%;
     border-top: 15px solid;
+    border-bottom: #fff;
 }
 
 ul {
