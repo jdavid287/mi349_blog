@@ -16,6 +16,12 @@ header{
     border-top: 15px solid;
 }
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 .nav_links{
     list-style: none;
 }
