@@ -17,6 +17,10 @@ header{
     border-bottom: #fff;
 }
 
+#menu_bar {
+    background-color: rgb(1, 45, 139);
+}
+
 ul {
     list-style: none;
     margin: 0;
