@@ -79,7 +79,7 @@ color: #fff;
     margin-right: auto;
 }
 
-a[lift_tickets] {
+.lift_tickets {
     text-align: center;
     font-size: 15px;
 }
