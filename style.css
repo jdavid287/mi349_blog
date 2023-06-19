@@ -89,30 +89,15 @@ table {
     text-align: center;
 }
 
-.main {
-    display: flex;
-    align-items: center;
-  }
-  
-  .para {
-    flex: 1;
-    margin-right: 20px;
-    margin-left: 20px;
-  }
-  
-  .aboutme {
-    margin-top: 20px;
-  }
-  
-  .trail_maps {
-    float: left;
-    margin-right: 20px;
-  }
-  
-  .me {
-    margin-top: 20px;
-  }
-  
+.me {
+    text-align: center;
+}
+
+.aboutme {
+    text-align: center;
+    font-size: 15px;
+    margin: 50 0 0 50;
+}
 
 .newsletter {
     text-align: center;
