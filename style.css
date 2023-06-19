@@ -73,3 +73,8 @@ color: #fff;
     margin-left: 20px;
     font-size: 15px;
 }
+
+.bigsky {
+    height: 280px;
+    border-radius: 20px;
+}
