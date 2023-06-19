@@ -7,7 +7,7 @@ body{
 header{
     font-weight: 200;
     font-size: 15px;
-    color:navy;
+    color: #fff;;
     text-decoration: none;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@ ul {
     transition: all 0.3s ease 0s;
 }
 .nav_links li a:hover {
-color: #fff;
+color: blue;
 }
 
 .nav_links {
