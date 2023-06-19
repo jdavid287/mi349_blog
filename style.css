@@ -17,9 +17,6 @@ header{
     border-bottom: #fff;
 }
 
-.logo {
-    background: no-repeat bottom / cover url('images.txt/skilogo.png');
-}
 
 #menu_bar {
     background-color: rgb(1, 45, 139);
