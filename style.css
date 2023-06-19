@@ -38,6 +38,10 @@ ul {
 color:blue
 }
 
+.nav_links {
+    background-color: rgb(1, 139, 139);
+    padding: 1em 0;
+}
 .topic_title {
     text-align: center;
     font-size: 45px;
