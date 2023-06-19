@@ -37,6 +37,11 @@ color:blue
     font-size: 25px;
 }
 
+.sec_title {
+    text-align: center;
+    font-size: 20px;
+}
+
 .para {
     text-align: center;
     margin: 50px;
