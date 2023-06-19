@@ -75,6 +75,8 @@ color: #fff;
 .trail_maps {
     height: 500px;
     border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a[lift_tickets] {
